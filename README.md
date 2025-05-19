@@ -94,7 +94,7 @@ WantedBy=multi-user.target
 
 Enable and start the service:
 ```
-bashsudo systemctl enable air-quality.service
+sudo systemctl enable air-quality.service
 sudo systemctl start air-quality.service
 ```
 
